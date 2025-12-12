@@ -10,9 +10,8 @@ The project explores, designs, prototypes, and evaluates an application for **ma
 If GitHub Pages is enabled for this repo, the portfolio homepage is served from the `index.html` file in the root directory.
 
 - **Portfolio URL:**  
-  `https://<your-github-username>.github.io/hci_coursework/`
+  `https://michael_kosts.github.io/hci_coursework/`
 
-Replace `<your-github-username>` with your actual username.
 
 ---
 
