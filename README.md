@@ -4,6 +4,7 @@ The project explores, designs, prototypes, and evaluates an application for **ma
 ---
 
 GO TO Link to Figma Portfolio FOR THE PORTFOLIO AND ALL THE LINKS
+(https://www.figma.com/design/D32XNIWsZHAIJN7LJOZiMw/241-CW-Portfolio?node-id=0-1&p=f&t=PM227B4GbIqaORt6-0)
   
 ---
 
@@ -12,4 +13,4 @@ The repo is organised so each coursework activity has its own space and can be l
 ```text
 hci_coursework/
 ├── Link to Figma Portfolio                     # Main portfolio page (cards for Tasks 1–6)
-├── README.md                      # This file
+├── README.md                                   # This file
