@@ -1,11 +1,11 @@
 This repository hosts the online portfolio for the **LZSCC.241 Human–Computer Interaction Project**.  
 The project explores, designs, prototypes, and evaluates an application for **managing and modding video game save files** (e.g., backing up saves, restoring old states, and safely editing in-game values).
 
-GO TO Link to Figma Portfolio FOR THE PORTFOLIO AND ALL THE LINKS
+
 
 ---
 
-  `https://michael_kosts.github.io/hci_coursework/`
+GO TO Link to Figma Portfolio FOR THE PORTFOLIO AND ALL THE LINKS
   
 ---
 
