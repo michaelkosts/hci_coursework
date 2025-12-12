@@ -1,15 +1,13 @@
 This repository hosts the online portfolio for the **LZSCC.241 Human–Computer Interaction Project**.  
 The project explores, designs, prototypes, and evaluates an application for **managing and modding video game save files** (e.g., backing up saves, restoring old states, and safely editing in-game values).
 
----
+GO TO Link to Figma Portfolio FOR THE PORTFOLIO AND ALL THE LINKS
 
+---
 
   `https://michael_kosts.github.io/hci_coursework/`
-
-
+  
 ---
-
-## Repository Structure
 
 The repo is organised so each coursework activity has its own space and can be linked from the main portfolio page.
 
@@ -23,5 +21,5 @@ hci_coursework/
 ├── activity-4-ux-design/          # Activity 4 materials (UX flows, maps, IA)
 ├── activity-5-prototyping/        # Activity 5 materials (hi-fi prototype links, notes)
 ├── activity-6-usability-evaluation/# Activity 6 materials (evaluation plan, results)
-├── references/                    # Reference list in chosen citation style
-└── appendix/                      # Contribution tables, raw data (transcripts, questionnaires, etc.)
+├── Link to Figma Portfolio/
+
